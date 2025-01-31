@@ -1,0 +1,12 @@
+com\hgp\login\models\Usuario.class
+com\hgp\login\vistas\LoginView$1.class
+com\hgp\login\controllers\LoginController.class
+com\hgp\login\models\Tienda.class
+com\hgp\login\services\UsuarioService.class
+com\hgp\login\models\Rol.class
+com\hgp\login\util\JPAUtil.class
+com\hgp\login\vistas\LoginView.class
+com\hgp\login\Login.class
+com\hgp\login\dto\UsuarioDTO.class
+com\hgp\login\vistas\LoginView$2.class
+com\hgp\login\dao\UsuarioDAO.class
