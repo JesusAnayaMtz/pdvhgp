@@ -9,4 +9,5 @@ com\hgp\login\vistas\LoginView.class
 com\hgp\login\Login.class
 com\hgp\login\dto\UsuarioDTO.class
 com\hgp\login\vistas\LoginView$2.class
+com\hgp\login\util\EncriptadorContrasena.class
 com\hgp\login\dao\UsuarioDAO.class
